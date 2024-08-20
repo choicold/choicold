@@ -1,8 +1,2 @@
-- 👋 Hi, I’m Choi Han Gi
-- 👀 I’m interested in Football Manager
-- 🌱 I’m currently learning HTTP, Spring, OS ...
-- 📫 How to reach me : https://www.acmicpc.net/user/fovjenrl21
-- 
-<!---
-
---->
+- 학력 : 숭실대 소프트웨학부 재학
+- 백준 : https://www.acmicpc.net/user/fovjenrl21
