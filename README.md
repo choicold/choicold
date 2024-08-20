@@ -1,2 +1,3 @@
 - 학력 : 숭실대 소프트웨학부 재학
 - 백준 : https://www.acmicpc.net/user/fovjenrl21
+- 공부 : C++, Java, Spring, MySQL, OS, HTTP, 자료구조, 알고리즘 
