@@ -1,6 +1,6 @@
 # CHOI HAN GI 👋
 ![choicold's GitHub stats](https://github-readme-stats.vercel.app/api?username=choicold&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fovjenrl21)](https://www.acmicpc.net/user/fovjenrl21)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fovjenrl21)](https://solved.ac/fovjenrl21)
 
 # 💻 Skills
 ### Platforms & Languages
