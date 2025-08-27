@@ -13,3 +13,4 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDE&logoColor=white)
  
 # :mailbox_with_mail: Contacts
+fovjenrl21@soongsil.ac.kr
