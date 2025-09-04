@@ -7,8 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql&theme=dark)](https://skillicons.dev)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDE&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea&theme=dark)](https://skillicons.dev)
  
 # :mailbox_with_mail: Contacts
 fovjenrl21@soongsil.ac.kr
