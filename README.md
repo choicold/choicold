@@ -3,7 +3,7 @@
 
 # 💻 Skills
 ### Platforms & Languages
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql&theme=dark)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea&theme=dark)](https://skillicons.dev)
