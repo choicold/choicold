@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea&theme=dark)](https://skillicons.dev)
 
 # 👥 Team Projects
-[<img width="100" height="100" alt="Image" src="./brief-logo.png" />](https://github.com/swyp-app-4/Brief)
+[<img width="100" height="100" alt="Image" src="./brief.png" />](https://github.com/swyp-app-4/Brief)
  
 # 🏆 Awards
 * **ASK 2025 학부생 논문경진대회 금상** `2025`
