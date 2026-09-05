@@ -1,5 +1,3 @@
-# CHOI HAN GI 👋
-
 # 💻 Skills
 ### Platforms & Languages
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql&theme=dark)](https://skillicons.dev)
