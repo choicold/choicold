@@ -1,5 +1,4 @@
 # CHOI HAN GI 👋
-[![Solved.ac프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=fovjenrl21)](https://solved.ac/fovjenrl21)
 
 # 💻 Skills
 ### Platforms & Languages
