@@ -8,7 +8,7 @@
 
 # 👥 팀 프로젝트
 [<img width="100" height="100" alt="Image" src="./brief.png" />](https://github.com/swyp-app-4/Brief)
-[<img width="100" height="100" alt="Image" src="./keepeat.png" />]([https://github.com/KeepEatSSU/KeepEat])
+[<img width="100" height="100" alt="Image" src="./keepeat.png" />](https://github.com/KeepEatSSU/KeepEat)
  
 # 🏆 수상
 * **ASK 2025 학부생 논문경진대회 금상** `2025`
